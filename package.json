@@ -1,0 +1,33 @@
+{
+  "name": "programscriptwhisper",
+  "version": "1.0.2",
+  "description": "programscriptwhisper",
+  "type": "module",
+  "main": "programscriptwhisper.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/atchisonkydenr2329/programscriptwhisper"
+  },
+  "website": "https://github.com/atchisonkydenr2329/programscriptwhisper.git",
+  "keywords": [
+    "programscriptwhisper"
+  ],
+  "author": "atchisonkydenr2329",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/atchisonkydenr2329/programscriptwhisper/issues"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org"
+  },
+  "homepage": "https://github.com/atchisonkydenr2329/programscriptwhisper#readme",
+  "dependencies": {
+    "devcraftguru": "1.0.2",
+    "codedevcraft": "1.0.2",
+    "devscriptwhiz": "1.0.2"
+  }
+}
